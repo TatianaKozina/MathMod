@@ -72,3 +72,4 @@ sort(x)
 sort(x)==x[order(x)]
 log(exp(1))
 log(exp(2))
+log(exp(2))
